@@ -36,13 +36,12 @@ Take advantage of your Instructor and TA support during office hours and class p
 
 ## Table Data Scraping: 
 
-Winners Westminster Dog Show: https://en.wikipedia.org/wiki/List_of_Best_in_Show_winners_of_the_Westminster_Kennel_Club_Dog_Show
-Winners National Dog Show ( USA): 
-https://en.wikipedia.org/wiki/National_Dog_Show
+* Winners Westminster Dog Show: https://en.wikipedia.org/wiki/List_of_Best_in_Show_winners_of_the_Westminster_Kennel_Club_Dog_Show
+* Winners National Dog Show ( USA): https://en.wikipedia.org/wiki/National_Dog_Show
 
 ## Dog API: 
 
-https://www.thedogapi.com/
+* Images from: https://www.thedogapi.com/
 
 ## CSV databases (From Kaggle and data.world): 
 
