@@ -16,7 +16,7 @@ In this project, we extracted data from different sources to get information abo
 
 ## Original data Sources: 
 
-### For Data Scraping:
+#### For Data Scraping:
 
 * American Kennel Club: https://www.akc.org/
 * Breed Profiles dogtime.com: https://dogtime.com/dog-breeds/profiles
