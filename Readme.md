@@ -29,22 +29,22 @@ Take advantage of your Instructor and TA support during office hours and class p
 
 ## Original data Sources: 
 
-# For Data Scraping:
+## For Data Scraping:
 
 American Kennel Club: https://www.akc.org/
 Breed Profiles dogtime.com: https://dogtime.com/dog-breeds/profiles
 
-#Table Data Scraping: 
+## Table Data Scraping: 
 
 Winners Westminster Dog Show: https://en.wikipedia.org/wiki/List_of_Best_in_Show_winners_of_the_Westminster_Kennel_Club_Dog_Show
 Winners National Dog Show ( USA): 
 https://en.wikipedia.org/wiki/National_Dog_Show
 
-#Dog API: 
+## Dog API: 
 
 https://www.thedogapi.com/
 
-# CSV databases (From Kaggle and data.world): 
+## CSV databases (From Kaggle and data.world): 
 
 best_in _show.csv (Breed, Category, Popularity in the US, Lifetime Cost)
 dog_breeds.csv (Breed Name, Alt Breed Name, Group 1, Group 2, Male Weight, Temperament, Puppy price, Intelligence, Watchdog). 
