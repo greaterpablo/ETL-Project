@@ -45,9 +45,9 @@ Take advantage of your Instructor and TA support during office hours and class p
 
 ## CSV databases (From Kaggle and data.world): 
 
-best_in _show.csv (Breed, Category, Popularity in the US, Lifetime Cost)
-dog_breeds.csv (Breed Name, Alt Breed Name, Group 1, Group 2, Male Weight, Temperament, Puppy price, Intelligence, Watchdog). 
-dog_weight_lenght.csv (Breed, height_low_inches,height_high_inches,weight_low_lbs,weight_high_lbs)
+* best_in _show.csv (Breed, Category, Popularity in the US, Lifetime Cost)
+* dog_breeds.csv (Breed Name, Alt Breed Name, Group 1, Group 2, Male Weight, Temperament, Puppy price, Intelligence, Watchdog). 
+* dog_weight_lenght.csv (Breed, height_low_inches,height_high_inches,weight_low_lbs,weight_high_lbs)
 
 
 ## Data Cleanup & Analysis
