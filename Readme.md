@@ -27,15 +27,29 @@ Before you start writing any code, remember that you only have one week to compl
 
 Take advantage of your Instructor and TA support during office hours and class project work time. They are a valuable resource and can help you stay on track.
 
-## Finding Data
+## Original data Sources: 
 
-Your project must use 2 or more sources of data. We recommend the following sites to use as sources of data:
+# For Data Scraping:
 
-* [data.world](https://data.world/)
+American Kennel Club: https://www.akc.org/
+Breed Profiles dogtime.com: https://dogtime.com/dog-breeds/profiles
 
-* [Kaggle](https://www.kaggle.com/)
+#Table Data Scraping: 
 
-You can also use APIs or data scraped from the web. However, get approval from your instructor first. Again, there is only a week to complete this!
+Winners Westminster Dog Show: https://en.wikipedia.org/wiki/List_of_Best_in_Show_winners_of_the_Westminster_Kennel_Club_Dog_Show
+Winners National Dog Show ( USA): 
+https://en.wikipedia.org/wiki/National_Dog_Show
+
+#Dog API: 
+
+https://www.thedogapi.com/
+
+# CSV databases (From Kaggle and data.world): 
+
+best_in _show.csv (Breed, Category, Popularity in the US, Lifetime Cost)
+dog_breeds.csv (Breed Name, Alt Breed Name, Group 1, Group 2, Male Weight, Temperament, Puppy price, Intelligence, Watchdog). 
+dog_weight_lenght.csv (Breed, height_low_inches,height_high_inches,weight_low_lbs,weight_high_lbs)
+
 
 ## Data Cleanup & Analysis
 
