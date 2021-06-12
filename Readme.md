@@ -6,11 +6,11 @@ This document contains guidelines, requirements, and suggestions for Project 1.
 
 ## Team members
 
-Mariana Geffroy López 
-Carlos Iván Hernández 
-Omar Rivera Galván
-José H. Sierra 
-Pablo Villalpando Álvarez
+* Mariana Geffroy López 
+* Carlos Iván Hernández 
+* Omar Rivera Galván
+* Jose H. Sierra 
+* Pablo Villalpando Álvarez
 
 
 ## Team Effort
