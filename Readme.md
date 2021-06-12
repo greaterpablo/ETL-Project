@@ -1,5 +1,6 @@
 # Dog Breed Catalog 
 
+
 In this project, we extracted data from different sources to get information about different dog breeds, to get physical characteristics, activity levels, and temperament that make each dog breed unique. Having a centralized database might help veterinarians, dog enthusiasts.
 
 
