@@ -14,13 +14,6 @@ In this project, we extracted data from different sources to get information abo
 * Jose H. Sierra 
 * Pablo Villalpando Álvarez
 
-
-## Team Effort
-
-Due to the short timeline, teamwork will be crucial to the success of this project! Work closely with your team through all phases of the project to ensure that there are no surprises at the end of the week.
-
-Working in a group enables you to tackle more difficult problems than you'd be able to working alone. In other words, working in a group allows you to **work smart** and **dream big**. Take advantage of it!
-
 ## Project Proposal
 
 Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
