@@ -31,8 +31,8 @@ Take advantage of your Instructor and TA support during office hours and class p
 
 ## For Data Scraping:
 
-American Kennel Club: https://www.akc.org/
-Breed Profiles dogtime.com: https://dogtime.com/dog-breeds/profiles
+* American Kennel Club: https://www.akc.org/
+* Breed Profiles dogtime.com: https://dogtime.com/dog-breeds/profiles
 
 ## Table Data Scraping: 
 
