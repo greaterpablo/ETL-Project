@@ -93,7 +93,8 @@ We loop all records from the list_dictionary to include information from both li
 Finally we used https://api.thedogapi.com to get all the images available for each breed in the previous dictionary.
 
 ### Load
-Load: the final database, tables/collections, and why this was chosen.
+
+The final database, tables/collections, and why this was chosen.
 The final databases will be loaded using Mongo DB. 
 We chose a non-relational database due to the differences in our data. For some  popular breeds there is a large amount of data, but for others, there are not as many records. 
 We first made our database which is Dog_db with our main collection in which each document is a dog breed, which will facilitate data exploration. 
