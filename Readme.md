@@ -1,6 +1,7 @@
-# Guidelines for ETL Project
+# Dog breed catalog 
 
-This document contains guidelines, requirements, and suggestions for Project 1.
+In this project, we extracted data from different sources to get information about different dog breeds, to get physical characteristics, activity levels, and temperament that make each dog breed unique. Having a centralized database might help veterinarians, dog enthusiasts.
+
 
 ![puppies](https://user-images.githubusercontent.com/80076539/121785148-20b94100-cb86-11eb-9e40-671d93426109.jpg)
 
