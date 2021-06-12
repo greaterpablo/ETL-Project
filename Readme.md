@@ -14,12 +14,6 @@ In this project, we extracted data from different sources to get information abo
 * Jose H. Sierra 
 * Pablo Villalpando Álvarez
 
-## Project Proposal
-
-Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
-
-Take advantage of your Instructor and TA support during office hours and class project work time. They are a valuable resource and can help you stay on track.
-
 ## Original data Sources: 
 
 ### For Data Scraping:
