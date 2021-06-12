@@ -6,7 +6,7 @@ In this project, we extracted data from different sources to get information abo
 
 ![puppies](https://user-images.githubusercontent.com/80076539/121785148-20b94100-cb86-11eb-9e40-671d93426109.jpg)
 
-## Team members
+## Team Members
 
 * Mariana Geffroy López 
 * Carlos Iván Hernández 
