@@ -4,6 +4,15 @@ This document contains guidelines, requirements, and suggestions for Project 1.
 
 ![puppies](https://user-images.githubusercontent.com/80076539/121785148-20b94100-cb86-11eb-9e40-671d93426109.jpg)
 
+## Team members
+
+Mariana Geffroy López 
+Carlos Iván Hernández 
+Omar Rivera Galván
+José H. Sierra 
+Pablo Villalpando Álvarez
+
+
 ## Team Effort
 
 Due to the short timeline, teamwork will be crucial to the success of this project! Work closely with your team through all phases of the project to ensure that there are no surprises at the end of the week.
